@@ -28,7 +28,6 @@ I've some Objectives on this platform, so i'm sharing it with you ☕
   -  [x] ReactJS ⚛️
   -  [ ] VueJS ✅
   -  [ ] Angular 🅰️
--  
 
 
 ### Explore some of my Projects and leave a ⭐:
