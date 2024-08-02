@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Nikorasu-d">
-    <img src="https://gh-readme-profile.vercel.app/api?username=Nikorasu-d&theme=catppuccin-mocha" height="200px";">
+    <img src="https://gh-readme-profile.vercel.app/api?username=Nikorasu-d&theme=catppuccin-mocha" height="300px";">
   </a>
 </p>
 
